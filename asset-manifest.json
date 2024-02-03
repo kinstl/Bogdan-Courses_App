@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bogdan-Courses_App/static/css/main.41aa08f3.css",
+    "main.js": "/Bogdan-Courses_App/static/js/main.30c5fb70.js",
+    "index.html": "/Bogdan-Courses_App/index.html",
+    "main.41aa08f3.css.map": "/Bogdan-Courses_App/static/css/main.41aa08f3.css.map",
+    "main.30c5fb70.js.map": "/Bogdan-Courses_App/static/js/main.30c5fb70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41aa08f3.css",
+    "static/js/main.30c5fb70.js"
+  ]
+}
