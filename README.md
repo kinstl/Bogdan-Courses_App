@@ -1,38 +1,22 @@
-# React Project for the React Course
 
-## Available Scripts
+# Bogdan-Courses_App
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+This React application serves as an interactive course catalog. Utilizing React Router, it enables navigation between different pages, simulating a multi-page website experience within a single-page application. Users can browse through a list of programming courses and use query parameters to sort and filter results.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Navigation Menu**: A top navigation menu that includes links to the Home, Courses, About, and Contacts pages.
+- **Dynamic Course Listing**: The Courses page dynamically lists various programming courses.
+- **Sorting Functionality**: Courses can be sorted through query parameters (e.g., `/courses?sort=title`) to organize the course list based on the selected criteria.
+- **React Router Implementation**: Demonstrates the use of React Router for navigating between pages without full page reloads.
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run this application:
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone the repository to your local machine.
+2. Navigate to the directory via the terminal.
+3. Execute `npm install` to install dependencies.
+4. Run `npm start` to launch the app on your development server.
