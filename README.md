@@ -3,7 +3,7 @@
 
 ## Overview
 
-This React application serves as an interactive course catalog. Utilizing React Router, it enables navigation between different pages, simulating a multi-page website experience within a single-page application. Users can browse through a list of programming courses and use query parameters to sort and filter results.
+This React application serves as an interactive course catalog. Using React Router, it enables navigation between different pages, simulating a multi-page website experience within a single-page application. Users can browse through a list of programming courses and use query parameters to sort and filter results.
 
 ## Features
 
